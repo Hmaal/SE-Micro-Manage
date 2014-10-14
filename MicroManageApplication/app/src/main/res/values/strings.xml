@@ -4,5 +4,16 @@
     <string name="app_name">Micro Manage</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_activity__login">Activity_Login</string>
+    <string name="title_activity_activity__register">Activity_Register</string>
+    <string name="title_activity_activity__forgot">Activity_Forgot</string>
+    <string name="title_activity_activity__inventory">Activity_Inventory</string>
+    <string name="title_activity_activity__appointment">Activity_Appointment</string>
+    <string name="title_activity_activity__form">Activity_Form</string>
+    <string name="title_activity_activity__account_settings">Activity_AccountSettings</string>
+    <string name="title_activity_activity__change_password">Activity_ChangePassword</string>
+    <string name="title_activity_activity__work">Activity_Work</string>
+    <string name="title_activity_activity__employees">Activity_Employees</string>
+    <string name="title_activity_activity__app_update">Activity_AppUpdate</string>
 
 </resources>

@@ -10,11 +10,63 @@
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name" >
+
+            <!--
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+            -->
+        </activity>
+        <activity
+            android:name=".Activity_Login"
+            android:label="@string/title_activity_activity__login" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activity_Register"
+            android:label="@string/title_activity_activity__register" >
+        </activity>
+        <activity
+            android:name=".Activity_Forgot"
+            android:label="@string/title_activity_activity__forgot" >
+        </activity>
+        <activity
+            android:name=".Activity_Inventory"
+            android:label="@string/title_activity_activity__inventory" >
+        </activity>
+        <activity
+            android:name=".Activity_Appointment"
+            android:label="@string/title_activity_activity__appointment" >
+        </activity>
+        <activity
+            android:name=".Activity_Form"
+            android:label="@string/title_activity_activity__form" >
+        </activity>
+        <activity
+            android:name=".Activity_AccountSettings"
+            android:label="@string/title_activity_activity__account_settings" >
+        </activity>
+        <activity
+            android:name=".Activity_ChangePassword"
+            android:label="@string/title_activity_activity__change_password" >
+        </activity>
+        <activity
+            android:name=".Activity_Work"
+            android:label="@string/title_activity_activity__work" >
+        </activity>
+        <activity
+            android:name=".Activity_Employees"
+            android:label="@string/title_activity_activity__employees" >
+        </activity>
+        <activity
+            android:name=".Activity_AppUpdate"
+            android:label="@string/title_activity_activity__app_update" >
         </activity>
     </application>
 
